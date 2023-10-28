@@ -15,7 +15,7 @@ const AboutUs =()=>{
             <Card>
                 <Card.Img 
                 variant="top" 
-                src="src/assets/images/Blue Teapot Cake Tea Tea Time Blue and White Tea Set - Etsy.jpeg" 
+                src="https://github.com/valentinalencioni/TP-React-Lencioni/blob/main/src/assets/images/Blue%20Teapot%20Cake%20Tea%20Tea%20Time%20Blue%20and%20White%20Tea%20Set%20-%20Etsy.jpeg?raw=true" 
                 style={{height:'280px'}}
                 alt='infusiones'/>
                 <Card.Body>
@@ -30,7 +30,7 @@ const AboutUs =()=>{
           <Card>
                 <Card.Img 
                 variant="top" 
-                src="src/assets/images/promos.jpeg" 
+                src="https://github.com/valentinalencioni/TP-React-Lencioni/blob/main/src/assets/images/promos.jpeg?raw=true" 
                 style={{height:'280px'}}
                 alt='Promos'/>
                 <Card.Body>
@@ -44,7 +44,7 @@ const AboutUs =()=>{
           </Card>
           <Card>
                 <Card.Img variant="top" 
-                src="src/assets/images/tortas.jpeg" 
+                src="https://github.com/valentinalencioni/TP-React-Lencioni/blob/main/src/assets/images/tortas.jpeg?raw=true" 
                 style={{height:'280px'}}
                 alt='tortas'/>
                 <Card.Body>
@@ -58,7 +58,7 @@ const AboutUs =()=>{
           </Card>
           <Card>
                 <Card.Img variant="top" 
-                src="src/assets/images/postres.jpeg" 
+                src="https://github.com/valentinalencioni/TP-React-Lencioni/blob/main/src/assets/images/postres.jpeg?raw=true" 
                 style={{height:'280px'}}
                 alt='postres'/>
                 <Card.Body>
